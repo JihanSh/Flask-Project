@@ -1,0 +1,35 @@
+2023-07-11 19:18:10,272 - ERROR - (psycopg2.errors.UndefinedTable) relation "task" does not exist
+LINE 2: FROM task
+             ^
+
+[SQL: SELECT task.id AS task_id, task.title AS task_title, task.description AS task_description, task.completed AS task_completed 
+FROM task]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-11 19:32:41,088 - ERROR - (psycopg2.errors.UndefinedTable) relation "task" does not exist
+LINE 2: FROM task
+             ^
+
+[SQL: SELECT task.id AS task_id, task.title AS task_title, task.description AS task_description, task.due_date AS task_due_date, task.completed AS task_completed 
+FROM task]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-12 02:23:09,187 - ERROR - (psycopg2.errors.UndefinedTable) relation "task" does not exist
+LINE 2: FROM task
+             ^
+
+[SQL: SELECT task.id AS task_id, task.title AS task_title, task.description AS task_description, task.due_date AS task_due_date, task.completed AS task_completed 
+FROM task]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-12 02:29:57,070 - ERROR - (psycopg2.errors.UndefinedTable) relation "task" does not exist
+LINE 2: FROM task
+             ^
+
+[SQL: SELECT task.id AS task_id, task.title AS task_title, task.description AS task_description, task.due_date AS task_due_date, task.completed AS task_completed 
+FROM task]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2023-07-12 02:44:01,938 - ERROR - (psycopg2.errors.UndefinedTable) relation "task" does not exist
+LINE 2: FROM task
+             ^
+
+[SQL: SELECT task.id AS task_id, task.title AS task_title, task.description AS task_description, task.due_date AS task_due_date, task.completed AS task_completed 
+FROM task]
+(Background on this error at: https://sqlalche.me/e/20/f405)
